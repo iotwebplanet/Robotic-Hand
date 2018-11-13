@@ -1,7 +1,7 @@
 /*
 ---- Transmitter Code ----
-Mert Arduino Tutorial & Projects (YouTube)
-Please Subscribe for Support
+Robotic hand Arduino Tutorial & Projects (YouTube)
+Please download https://github.com/maniacbug/RF24/archive/master.zip
 */
 
 #include <SPI.h>                      //the communication interface with the modem
